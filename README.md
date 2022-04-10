@@ -69,5 +69,13 @@ https://user-images.githubusercontent.com/71578472/162607977-2deda7df-b39b-4e69-
 https://user-images.githubusercontent.com/71578472/162607989-3687bd4a-691e-41f5-96cc-598c75c26304.mov
 
 
+## Conclusions
+
+1. When there was too much friction to allow the wire to rotate, because of the placement of the ends of the wire, the wire got really hot. This is because the electrical energy was not being transferred to mechanical energy and was instead dissipated as heat. Once the placement was fixed to have less contact forces but still enough to maintain a stable connection, the wire began rotating and was no longer as warm.
+2. The 24 AWG wire spun faster than the 18 AWG wire which spun faster than the 16 AWG wire. Essentially, the normal force is how much weight is put on a surface. When there was more weight, the stronger the normal forces were which increased friction, causing a slower rotation. 
+3. A conductive aluminum metal disc the same size as the batteries was placed between the battery and the magnets. The wire did not rotate at all. Aluminum’s coefficient of friction is approximately 0.9. Permanent magnets, on the other hand, are usually made from special alloys such as iron, nickel, and cobalt, all of which have lower coefficients of friction than aluminum. 
+4. The wire had tape attached in order to increase its cross sectional area. Drag is directly proportional to square speed and velocity is inversely proportional to cross sectional area. To decrease the speed, drag needs to be increased. The wire rotated at a slower rate once the tape was placed on it.
+5. To maximize the torque, the wire was bent in the form of a rectangular shape for the goofy motor. Because the force applied will be further away from the moment center, the amount of torque is increased. Additionally, when the wire took on the L shape, the electrons were traveling perpendicular to the vertically aligned magnetic field of the magnet. When this happened, it created a Lorentz force which is the strongest when it is perpendicular and the weakest when it is parallel. 
+ 
 
 
