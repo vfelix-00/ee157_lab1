@@ -26,6 +26,22 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 - A small piece of double stick tape 
 - A small piece of Kapton tape
 
+### Procedure 
+1. The battery had a divot in the “button” area of the positive battery terminal created by a spring loaded punch. 
+2. The wire ends that needed to make contact had their insulation carefully removed with an exacto knife.
+3. The wire was bent in an L shape for the first goofy motor and in a coil shape for the second goofy motor by a set of pliers and whiteboard marker, respectively. 
+4. The working goofy motors were recorded with a camera with a video frame rate of 60 frames per second. 
+
+## Results
+
+16 AWG wire coil design 
+
+
+https://user-images.githubusercontent.com/71578472/162607389-379ce5c7-72f4-4ade-b7f6-8eff6f328fbe.mov
+
+
+
+
 
 
 
