@@ -8,7 +8,7 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 
 ## Introduction
 
-## Hypotheses
+### Hypotheses
 
 
 
