@@ -40,14 +40,33 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 
 https://user-images.githubusercontent.com/71578472/162607493-28fb3105-55d1-47ca-a36d-35d939076700.mov
 
+24 AWG wire rectangular design 
 
 
 
 
 
+https://user-images.githubusercontent.com/71578472/162607919-52afbad9-8558-4866-9c4c-99aed3c61567.mov
+
+24 AWG wire coil design 
 
 
 
+
+https://user-images.githubusercontent.com/71578472/162607964-1e53509d-9ea2-4430-99de-797b84ec8312.mov
+
+16 AWG wire rectangular design 
+
+
+
+
+https://user-images.githubusercontent.com/71578472/162607977-2deda7df-b39b-4e69-b60e-ace4fac31210.mov
+
+16 AWG wire rectangular design drag experiment 
+
+
+
+https://user-images.githubusercontent.com/71578472/162607989-3687bd4a-691e-41f5-96cc-598c75c26304.mov
 
 
 
