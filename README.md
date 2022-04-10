@@ -1,1 +1,2 @@
-# ee157_lab1
+# Lab 1: The Homopolar (aka goofy) Motor
+## Vanessa Felix
