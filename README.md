@@ -16,6 +16,17 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 4. Increased air drag will decrease the speed at which the wire rotates. 
 5. To maximize the torque of the wire, the wire needs to be bent in a rectangular shape. 
 
+### Materials
+- A spring
+- Loaded punch
+- An AA style battery
+- Up to four (4) 2 mm thick x 15 mm diameter magnets
+- 16, 18, 24 AWG wire 
+- One aluminum discs
+- A small piece of double stick tape 
+- A small piece of Kapton tape
+
+
 
 
 
