@@ -37,7 +37,9 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 16 AWG wire coil design 
 
 
-https://user-images.githubusercontent.com/71578472/162607389-379ce5c7-72f4-4ade-b7f6-8eff6f328fbe.mov
+https://user-images.githubusercontent.com/71578472/162607454-e45cc6d2-ee4f-41bd-9d0d-288f61d73ffe.mov
+
+
 
 
 
