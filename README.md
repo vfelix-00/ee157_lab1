@@ -26,6 +26,13 @@ The objectives of this lab were to build a working goofy motor and to conduct so
 
 ## Results
 
+| Wire Gauge | Shape | Rotational Speed |
+| -----------|-------|------------------|
+| 24 AWG | Rectangle | ~5 rotations per sec|
+| 24 AWG | Coil | ~1 rotations per sec|
+| 16 AWG | Rectangle | ~2 rotations per sec|
+| 16 AWG | Coil | ~1 rotations per sec|
+
 16 AWG wire coil design 
 
 
